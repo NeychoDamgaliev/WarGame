@@ -1,2 +1,4 @@
 new text file from GIT
 I have made a change
+
+a CHange from GitHub 

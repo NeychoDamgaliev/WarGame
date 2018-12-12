@@ -1,1 +1,2 @@
 new text file from GIT
+I have made a change
